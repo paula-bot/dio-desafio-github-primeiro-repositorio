@@ -1,0 +1,5 @@
+- Estrutura de Dados e Algoritmos 
+- Primeiro Passos Para Começar a Programar
+- Lógica de Programção Essencial
+- Pensamento Computacional
+- Introdução ao GIT e ao GITHUB
